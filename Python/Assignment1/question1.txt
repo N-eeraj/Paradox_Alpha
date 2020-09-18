@@ -1,0 +1,17 @@
+1.Variables: They are named units to store values, as the name suggests the value of variables can be varied/changed.
+	Examples:-
+		x = 'hello world'
+		y = 7
+
+2.Constants: They are also storage units, but their values can't be changed. The value is fixed. The values are usually assigned in a module
+	Example:-
+		In a file constant.py;
+				pi = 3.14 [This is a variable declaration]
+		In another file main.py, we import constant.py & use the pi value as follows;
+			import constant
+			print(constant.pi)	[We will get 3.14 as the output & this value can't be changed]
+
+3.Literals: They are raw data in a variable or constant. Python has numeric literals, string literals, boolean literals etc.
+		Examples:-
+			a = 0b111 [The output will be 7, because this is a binary literal]
+			b = 1e5   [The output will be 100000.0, because this is an exponential literal]

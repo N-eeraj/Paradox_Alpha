@@ -1,0 +1,14 @@
+Identifiers:-
+	They are names given to indentify variables, functions, classes, modules etc.
+	There are certain rules to name an identifier;
+		Should start with a letter(a-z or A-Z) or an underscore (_)
+		Can be followed by any number of letters, underscores or digits(0-9)
+
+Data Types:-
+	Every variable can be classified into a type.
+	Most commonly used data types are;
+		str : String data type stores all text datas. The contents are given within single or double quotes (''/ ""). Example('hi', 'a', '555')
+		int : Integer data type stores all integer values. Example(7, -1, 100)
+		float: Float data type stores decimal values. Example(1.55, 1.0)
+		bool: Boolean data type stored True or False values.
+	There are also some other data types such as list, tuple, set, dictionary etc...
