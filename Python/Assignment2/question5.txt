@@ -1,0 +1,16 @@
+Standard Data Types in Python include the following;
+
+1. Numeric: Data which has numeric values. Python has 3 types of numbers:-
+	(a) Integer: Positive & Negative numbers. (Eg: 100, -7)
+	(b) Float: Real numbers with fractional component. (Eg: 5.5, 0.25)
+	(c) Complex Number: Numbers with real & imaginary part. (Eg: 3+8j, 100-78j)
+
+2. Boolean: True or False values.
+
+3. Sequence: Collection of similar or different data types
+	(a) List: Collection of objects. Enclosed within [], separated by ,. They are mutable. (Eg: [1, 2, 'hello', 5.555])
+	(b) Tuple: Collection of objects. Enclosed within (), separated by ,. They are immutable.  (Eg: (), (1, 2, 5, '', 'hi'))
+
+4. String: Characters, words,sentences etc. They are enclosed within ' or " or """. (Eg: '5', "hello world")
+
+5. Dictionary: Has a key value pair. Enclosed in within {}. (Eg: {1:'A', 'b': 5})
